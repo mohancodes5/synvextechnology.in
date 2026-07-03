@@ -1,0 +1,11 @@
+{
+  "name": "synvex-tech",
+  "version": "1.0.0",
+  "description": "Synvex Technology single page web application.",
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0"
+  }
+}
